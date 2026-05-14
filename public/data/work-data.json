@@ -1,0 +1,60 @@
+{
+  "workData": [
+    {
+      "title": "Employee Management System",
+      "slug": "/projects/ems",
+      "image": "/images/work/ems.png",
+      "client": "Internal Project",
+      "liveUrl": "https://efficienttechems.vercel.app/"
+    },
+    {
+      "title": "Gift Box Bay (E-commerce)",
+      "slug": "/projects/gift-box-bay",
+      "image": "/images/work/gift.png",
+      "client": "Personal Project",
+      "liveUrl": "https://buyora-seven.vercel.app/"
+    },
+    {
+      "title": "Surasa E-commerce Platform",
+      "slug": "/projects/surasa",
+      "image": "/images/work/surasha.png",
+      "client": "Surasa",
+      "liveUrl": "https://surasalife.com/"
+    },
+    {
+      "title": "Beaze.shop (E-commerce Template)",
+      "slug": "/projects/beaze",
+      "image": "/images/work/beazeT.png",
+      "client": "Intership Project",
+      "liveUrl": "https://beaze.in/"
+    },
+    {
+      "title": "Two Byte Solution (Job Finder)",
+      "slug": "/projects/two-byte",
+      "image": "/images/work/twobyte.png",
+      "client": "USA Startup Project",
+      "liveUrl": "https://www.twobytesolutions.com/"
+    },
+    {
+      "title": "Taybatal Madinah Website",
+      "slug": "/projects/taybatal",
+      "image": "/images/work/taybatal.png",
+      "client": "Saudi Arabia Client Project",
+      "liveUrl": "https://www.taybatalmadina.com/"
+    },
+    {
+      "title": "Syd Innovations",
+      "slug": "/projects/syd-innovations",
+      "image": "/images/work/syd.png",
+      "client": "Client Project",
+      "liveUrl": "http://sydinnovations.com/"
+    },
+     {
+      "title": "Travel CRM",
+      "slug": "/projects/travelcrm",
+      "image": "/images/work/travelCRM.png",
+      "client": "Own Company Project",
+      "liveUrl": "https://travelcrm.sydinnovations.com/"
+    }
+  ]
+}

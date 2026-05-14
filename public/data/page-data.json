@@ -1,0 +1,132 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "abdullahsyed574@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:abdullahsyed574@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 9570026142",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+919570026142"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "github",
+        "icon": "/images/icon/github-icon.png",
+        "link": "https://github.com/syedabdd"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/syed-abdullah-20228227b/"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Bachelor of Computer Applications (BCA) 2021-2024",
+        "description": "Completed BCA from Aryabhatta Knowledge University with a strong foundation in web development, programming, and modern technologies including MERN stack."
+      },
+      {
+  "title": "Higher Secondary (12th) - 2020",
+  "description": "Completed 12th from Pune Anglo Urdu Boys Junior College, Maharashtra, building a strong academic foundation before pursuing a degree in computer applications."
+}
+    ],
+"skills": [
+  {
+    "name": "HTML",
+    "icon": "/images/icon/html-icon.png",
+    "rating": 5
+  },
+  {
+    "name": "CSS",
+    "icon": "/images/icon/css-icon.png",
+    "rating": 5
+  },
+  {
+    "name": "JavaScript",
+    "icon": "/images/icon/js-icon.png",
+    "rating": 5
+  },
+  {
+    "name": "TypeScript",
+    "icon": "/images/icon/typescript-icon.png",
+    "rating": 4
+  },
+  {
+    "name": "React.js",
+    "icon": "/images/icon/reactjs-icon.png",
+    "rating": 5
+  },
+  {
+    "name": "Next.js",
+    "icon": "/images/icon/nextjs-icon.svg",
+    "rating": 5
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon": "/images/icon/tailwindcss-icon.png",
+    "rating": 5
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "/images/icon/Bootstrap.jpg",
+    "rating": 4
+  },
+  {
+    "name": "Node.js",
+    "icon": "/images/icon/nodejs-icon.png",
+    "rating": 4
+  },
+  {
+    "name": "Express.js",
+    "icon": "/images/icon/ee.png",
+    "rating": 4
+  },
+  {
+    "name": "MongoDB",
+    "icon": "/images/icon/mma.png",
+    "rating": 4
+  },
+  {
+    "name": "Git & GitHub",
+    "icon": "/images/icon/github-icon.png",
+    "rating": 5
+  }
+]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "GitHub",
+        "href": "https://github.com/syedabdd"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/syed-abdullah-20228227b/"
+      },
+      {
+        "title": "Portfolio",
+        "href": "https://wondrous-babka-15be7b.netlify.app"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "abdullahsyed574@gmail.com",
+        "link": "mailto:abdullahsyed574@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 9570026142",
+        "link": "tel:+919570026142"
+      }
+    ]
+  }
+}
